@@ -95,30 +95,6 @@
       "category": "Mystery",
       "image": "https://user-images.githubusercontent.com/101581634/234347889-11ca9175-4394-4b45-b43f-5bcf59f3c22b.jpg",
       "price": 352
-    },
-    {
-      "id": 13,
-      "title": "Brave New World",
-      "author": "Aldous Huxley",
-      "category": "Dystopian",
-      "image": "https://user-images.githubusercontent.com/101581634/234347853-7d5727f7-f60b-49cf-a303-4f2625d3ff2c.jpg",
-      "price": 4451
-    },
-    {
-      "id": 14,
-      "title": "The Picture of Dorian Gray",
-      "author": "Oscar Wilde",
-      "category": "Classic",
-      "image": "https://user-images.githubusercontent.com/101581634/234347830-11504733-28c2-4a15-81f1-6dc072c5e54f.jpg",
-      "price": 1125
-    },
-    {
-      "id": 15,
-      "title": "1984",
-      "author": "George Orwell",
-      "category": "Dystopian",
-      "image": "https://user-images.githubusercontent.com/101581634/234347844-584268dd-c784-496e-a769-8166179d8f07.jpg",
-      "price": 7411
     }
   ]
 }
